@@ -1,6 +1,4 @@
 
-**A small game to learn the fundamentals of building any React apps.**
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
