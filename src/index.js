@@ -142,8 +142,6 @@ function findWinner(squares) {
     return null;
 }
 
-// ==============================================
-
 ReactDOM.render(
     <Game />,
     document.getElementById('root')
